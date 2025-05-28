@@ -7,8 +7,6 @@
 - Batería 5V 3A 20,000mAh
 - Interruptores: uno para la pantalla, uno de 3 posiciones (sistema, voltímetro, amperímetro)
 
-![Foto del panel principal](fotos_cyberdeck/panel.jpg)
-
 ## Circuito 2: Sistema de ventilación y sonido
 - Batería 5V 2A 3000mAh
 - 2 ventiladores (100mA)
