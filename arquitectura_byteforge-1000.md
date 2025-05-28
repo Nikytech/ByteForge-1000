@@ -8,9 +8,9 @@
 - Voltimetro-amperimetro
 - Interruptor ON/OFF pantalla IPS 7"
 - Interruptor tipo switch de tres posiciones:
-      0.- Sistema apagado
-      I.- Sistema encendido con voltimetro
-      II.- Sistema encendido con voltimetro y amperimetro
+  0.- Sistema apagado
+  I.- Sistema encendido con voltimetro
+  II.- Sistema encendido con voltimetro y amperimetro
                                             
 
 ## Circuito 2: Sistema de ventilación y sonido
