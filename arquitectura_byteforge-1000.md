@@ -17,4 +17,5 @@
 - Fuente 20V 4.5A
 - Convertidor con display de voltaje/corriente/potencia
 - Regleta y USB de salida
+  
 ![Diagrama de conexiones del ByteForge 1000](fotos_cyberdeck/Diagrama_conexiones_ByteForge-1000.png)
